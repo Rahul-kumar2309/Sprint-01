@@ -44,7 +44,7 @@ body {
     justify-content: center; 
     align-items: center; 
     height: 70vh; 
-    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); /* Sleek Dark Theme */
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
     color: white;
     text-align: center;
     padding: 20px;
@@ -203,7 +203,6 @@ body.dark-theme .service-card h3 {
     transform: scale(1.05); 
     background-color: #cc7a00; 
 }
-
 
 .service-card {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
